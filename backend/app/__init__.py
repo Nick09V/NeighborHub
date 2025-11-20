@@ -1,0 +1,1 @@
+"""NeighborHub Backend Application"""
